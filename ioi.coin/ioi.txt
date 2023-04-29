@@ -1,10 +1,19 @@
-
+ioi ♻ Decentralize Stabile Currency by Ai developer and community, 2021
+*by Ai Safari
+=========================================================================
 WPU RESOLUSI
 - Ai Wallet
-- ioi coin
+  - ioi App
+    - ioi coin
+      - cBc ( crypto Bank chain)
+        - modul
+          - Ledger Design
+            - smartContract
+            - GPTchat bot
+            - NFT Bot
 - Team
 - white Papers
-- Documentation - developer contract papes - company contract
-- modul
-- GPTchat bot - NFT Bot - smartContract - 
+- Documentation
+  - developer contract papes
+  - company contract
 - ROAD MAP

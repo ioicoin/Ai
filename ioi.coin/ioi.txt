@@ -1,13 +1,26 @@
 ioi ♻ Decentralize Stabile Currency by Ai developer and community, 2021
 *by Ai Safari
-==============10
+==============11
 WPU RESOLUSI
 - Developer's - IP coin's
 - Data Analyses
 - Marketing
+  - social Media
+    - instagram
+    - FaceBook
+    - whatsApp
+    - ...
+- billioum.com
+  - Ui Design
+  - Media Social Module
+    - digital Art
+    - music
+    - video
+  - Crypto bank Chart
 - Ai Wallet
   - ioi App
       - Ui Design
+      - Media Sosial Modul 
       - User
         - Top 5 stabile coin market in = out
     - ioi coin = ioi = $ 1 USD - $ volume coinstock (cost) = < ioi, coinstock = Totals ioi
@@ -26,9 +39,6 @@ WPU RESOLUSI
           - NFT Bot
           - $ioi Wallet Circuits
           - wallet management
-          - billioum.com
-            - Ui Design
-            - Crypto bank Chart
 - Team
   - Rosi keja Bareng
   - Lars

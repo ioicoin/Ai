@@ -1,19 +1,27 @@
 ioi ♻ Decentralize Stabile Currency by Ai developer and community, 2021
 *by Ai Safari
-=========================================================================
+==============
 WPU RESOLUSI
 - Ai Wallet
   - ioi App
-    - ioi coin
+      - User
+        - BUSD
+        - USDT
+        - USDC
+      
+    - ioi coin = ioi = $ 1 USD - $ volume coinstock (cost) = < ioi, coinstock = Totals ioi
       - cBc ( crypto Bank chain)
         - modul
           - Ledger Design
-            - smartContract
-            - GPTchat bot
-            - NFT Bot
+          - smartContract
+          - GPTchat bot
+          - NFT Bot
+          - wallet management
 - Team
 - white Papers
 - Documentation
+  - comunity paper
   - developer contract papes
   - company contract
-- ROAD MAP
+- ioi ROAD MAP 2021
+

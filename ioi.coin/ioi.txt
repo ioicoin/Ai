@@ -1,6 +1,6 @@
 ioi ♻ Decentralize Stabile Currency by Ai developer and community, 2021
 *by Ai Safari
-==============11
+==============12
 WPU RESOLUSI
 - Developer's - IP coin's
 - Data Analyses
@@ -35,7 +35,7 @@ WPU RESOLUSI
           - Ledger Design
             - https://kaspa.org
           - smartContract
-          - GPTchat bot
+          - GPTchat bot https://chat.openai.com
           - NFT Bot
           - $ioi Wallet Circuits
           - wallet management
@@ -53,8 +53,8 @@ WPU RESOLUSI
     - ioi.coin
 - 2022
   - BNB
-    - billioum $BoM BNB token
-    - coinstock $cost BNB token, BSC-BEP2o
+    - 18digits hold by community, billioum $BoM BNB token, pecah di token smartNFT
+    - 18digits hold by community, coinstock $cost BNB token, BSC-BEP2o, pecah di token smartNFT
 - white Papers
 - Documentation
   - comunity paper

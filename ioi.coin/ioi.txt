@@ -1,6 +1,6 @@
 ioi ♻ Decentralize Stabile Currency by Ai developer and community, 2021
 *by Ai Safari
-==============8
+==============9
 WPU RESOLUSI
 - Developer's - IP coin's
 - Data Analyses
@@ -9,9 +9,7 @@ WPU RESOLUSI
   - ioi App
       - Ui Design
       - User
-        - BUSD
-        - USDT
-        - USDC
+        - Top 5 stabile coin market in = out
     - ioi coin = ioi = $ 1 USD - $ volume coinstock (cost) = < ioi, coinstock = Totals ioi
       - cBc ( crypto Bank chain)
         - modul

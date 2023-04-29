@@ -2,8 +2,12 @@ ioi ♻ Decentralize Stabile Currency by Ai developer and community, 2021
 *by Ai Safari
 ==============
 WPU RESOLUSI
+- Developer's - IP coin's
+- Data Analyses
+- Marketing
 - Ai Wallet
   - ioi App
+      - Ui Design
       - User
         - BUSD
         - USDT
@@ -12,12 +16,32 @@ WPU RESOLUSI
     - ioi coin = ioi = $ 1 USD - $ volume coinstock (cost) = < ioi, coinstock = Totals ioi
       - cBc ( crypto Bank chain)
         - modul
+          - ioi Price ( Top 5market in = out )
+            - Tether (USDT)
+            - USD Coin (USDC)
+            - Binance USD (BUSD)
+            - Dai (DAI)
+            - TrueUSD (TUSD)
           - Ledger Design
+            - https://kaspa.org
           - smartContract
           - GPTchat bot
           - NFT Bot
+          - $ioi Wallet Circuits
           - wallet management
+          - billioum.com
+            - Ui Design
+            - Crypto bank Chart
 - Team
+- Asset
+  - unstoppabledomains - https://unstoppabledomains.com
+    - coinstock.NFT (2021) ETH chain
+    - coinstock.wallet (2021) ETH chain
+  - peernamecoin 
+    - ioi.coin
+  - BNB
+    - billioum $BoM BNB token
+    - coinstock $cost BNB token, BSC-BEP2o
 - white Papers
 - Documentation
   - comunity paper

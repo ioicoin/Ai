@@ -1,5 +1,10 @@
+
 WPU RESOLUSI
-- ioi.coin ip n peercoin
-- Modul
+- Ai Wallet
+- ioi coin
 - Team
+- white Papers
+- Documentation - developer contract papes - company contract
+- modul
+- GPTchat bot - NFT Bot - smartContract - 
 - ROAD MAP

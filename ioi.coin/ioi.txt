@@ -1,6 +1,6 @@
 ioi ♻ Decentralize Stabile Currency by Ai developer and community, 2021
 *by Ai Safari
-==============9
+==============10
 WPU RESOLUSI
 - Developer's - IP coin's
 - Data Analyses
@@ -30,8 +30,9 @@ WPU RESOLUSI
             - Ui Design
             - Crypto bank Chart
 - Team
-  - Rosi
+  - Rosi keja Bareng
   - Lars
+    - presentation
   - Lukas
 - 2023
 - Asset

@@ -1,6 +1,6 @@
 ioi ♻ Decentralize Stabile Currency by Ai developer and community, 2021
 *by Ai Safari
-==============
+==============6
 WPU RESOLUSI
 - Developer's - IP coin's
 - Data Analyses
@@ -33,12 +33,14 @@ WPU RESOLUSI
             - Ui Design
             - Crypto bank Chart
 - Team
+- 2023
 - Asset
   - unstoppabledomains - https://unstoppabledomains.com
     - coinstock.NFT (2021) ETH chain
     - coinstock.wallet (2021) ETH chain
   - peernamecoin 
     - ioi.coin
+- 2022
   - BNB
     - billioum $BoM BNB token
     - coinstock $cost BNB token, BSC-BEP2o
